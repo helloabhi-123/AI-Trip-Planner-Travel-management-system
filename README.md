@@ -9,3 +9,4 @@ Currently, two official plugins are available:
   Read Compulsory :
   When you used you own 1.GOOGLE_PLACE_API_KEY  2. GOOGLE_AUTH_CLIENT_ID  3.BASE_URL  4.PHOTO_REF_URL    import axios file    and Database to FIREBASE APIKEY Used.
   AI model.jsx file used.
+Project Run command : npm run dev
